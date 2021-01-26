@@ -1,9 +1,11 @@
 # Examen-Parcial-1-Big-Data-5B
-## Home weather
+## HomeWeather
+
 ## Descripción General
 ## El siguiente documento consta sobre la documentación del proyecto IoT "Home Weather" en el cuál se redacta el propósito y funcionamiento del mismo
 ### Propósito
 ### El kit "Home Weather" proporciona un equipo sofisticado de automatización, a traves de internet enviando datos recopilados de los sensores, que realiza acciones sin intervención del usuario, desde accionar ventanas, encender lámparas, ventiladores o cualquier equipo que el usuario desee.
+
 ## 5V's de Big Data
 ## - Volumen
 ### Nuestro proyecto, al enviar los datos sensados de los dispositivos al servidor, el volumen se vuelve masivo porque los datos son recopilados y enviados en internet por medio del dispositivo NODEmcu ESP8266.
