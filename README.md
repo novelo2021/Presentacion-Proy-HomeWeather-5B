@@ -22,7 +22,7 @@
 ### - Veracidad
 ### Nuestra forma de comprobar la veracidad de nuestros datos es a través de la repetición constante de los datos, ya que los sensores envían información cada 20 segundos, de igual manera, el constante mantenimiento de los sensores y equipos ayuda a que los datos no fallen o puedan ser incorrectos.
 ### - Variedad
-### Al momento de que el módulo NodeMCU recopila la información, dicha información se almacena de forma numérica, después del proceso de encapsulación, la manda en forma de texto e la base de datos alojada en el servidor, dicha información, cuando es presentada de forma gráfica puede ser descargada en formato de Excel para un mejor análisis.
+### Al momento de que el módulo NodeMCU recopila datos, dicha información se almacena de forma numérica después del proceso de encapsulación, la manda en forma de texto a la base de datos alojada en el servidor, esta información cuando es presentada de forma gráfica, puede ser descargada en formato de Excel para un mejor análisis.
 ###
 ## ETL
 ### Extracción de la información
