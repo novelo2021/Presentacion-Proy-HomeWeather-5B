@@ -8,7 +8,7 @@
 ## El siguiente documento consta sobre la documentación del proyecto IoT "HomeWeather" en el cual se redacta el propósito y funcionamiento de este.
 ## El kit "HomeWeather" proporciona un equipo sofisticado de automatización, a través de internet enviando datos recopilados de los sensores, que realiza acciones sin intervención del usuario, desde accionar ventanas, encender lámparas, ventiladores o cualquier equipo que el usuario desee.
 #
-## Diagrama de flujo de información
+## Diagrama de flujo de informaciónm
 ![flujograma](img/diagramaflujo.png)
 #
 ## 5V's de Big Data   
