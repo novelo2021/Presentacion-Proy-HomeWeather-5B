@@ -8,6 +8,7 @@
 ### Propósito
 ### El kit "HomeWeather" proporciona un equipo sofisticado de automatización, a traves de internet enviando datos recopilados de los sensores, que realiza acciones sin intervención del usuario, desde accionar ventanas, encender lámparas, ventiladores o cualquier equipo que el usuario desee.
 ## Diagrama de flujo de información
+![flujograma](img/diagramaflujo.png)
 ## 5V's de Big Data
 ## - Volumen
 ### Nuestro proyecto, al enviar los datos sensados de los dispositivos al servidor, el volumen se vuelve masivo porque los datos son recopilados y enviados en internet por medio del dispositivo NODEmcu ESP8266.
