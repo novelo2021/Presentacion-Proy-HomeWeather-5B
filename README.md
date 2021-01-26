@@ -11,7 +11,7 @@
 ## Diagrama de flujo de información
 ![flujograma](img/diagramaflujo.png)
 #
-## 5V's de Big Data
+## 5V's de Big Data   
 ## - Volumen
 ### Nuestro proyecto, al enviar los datos sensados de los dispositivos al servidor, el volumen se vuelve masivo porque los datos son recopilados y enviados en internet por medio del dispositivo NodeMCU ESP8266.
 ## - Velocidad
