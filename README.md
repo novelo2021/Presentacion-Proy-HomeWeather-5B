@@ -26,7 +26,7 @@
 ###
 ## ETL
 ### Extracción de la información
-### Los datos que serán recopilados en el proyecto, se obtienen de los diferentes sensados con respecto a los cambios meteorológicos, el sensor DTH-22 nos proporciona la información sobre el estado actual de la temperatura y la humedad del ambiente, el sensor ARD-355 mide la precipitación con una placa integrada, y el sensor GY-302 mide los valores de la intensidad lumínica, estos datos son enviados a la base de datos, a través de la página web administrativa se pueden realizar consultas con la API integrada a ésta.
+### Los datos que serán recopilados en el proyecto, se obtienen de los diferentes sensados con respecto a los cambios meteorológicos, el sensor DTH-22 nos proporciona la información sobre el estado actual de la temperatura y la humedad del ambiente, el sensor ARD-355 mide la precipitación con una placa integrada y el sensor GY-302 mide los valores de la intensidad lumínica, estos datos son enviados a la base de datos a través de la página web administrativa, donde se pueden realizar consultas con la API integrada a ésta.
 ### Transformación de la información
 ### Con los datos extraídos y analizados por medio la API, la información de la estación meteorológica manda la nueva información recopilada a los actuadores de los dispositivos, como lo podrían ser lámparas, motores para ventanas, etc.
 ### Carga de la información
