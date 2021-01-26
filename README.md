@@ -13,15 +13,15 @@
 ![flujograma](img/diagramaflujo.png)
 ###
 ## 5V's de Big Data   
-## - Volumen
+### - Volumen
 ### Nuestro proyecto, al enviar los datos sensados de los dispositivos al servidor, el volumen se vuelve masivo porque los datos son recopilados y enviados en internet por medio del dispositivo NodeMCU ESP8266.
-## - Velocidad
+### - Velocidad
 ### Los datos almacenados de los sensores son procesados de manera rápida y devueltos al dispositivo NodeMCU para la toma de decisiones, que es el proceso principal de la automatización.
-## - Valor
+### - Valor
 ### El proyecto recopila datos sobre el estado del tiempo, temperatura, humedad, intensidad de luz, datos valiosos para el análisis y forma de trabajar del dispositivo final.
-## - Veracidad
+### - Veracidad
 ### Nuestra forma de comprobar la veracidad de nuestros datos es a través de la repetición constante de los datos, ya que los sensores envían información cada 20 segundos, de igual manera, el constante mantenimiento de los sensores y equipos ayuda a que los datos no fallen o puedan ser incorrectos.
-## - Variedad
+### - Variedad
 ### Al momento de que el módulo NodeMCU recopila la información, dicha información se almacena de forma numérica, después del proceso de encapsulación, la manda en forma de texto e la base de datos alojada en el servidor, dicha información, cuando es presentada de forma gráfica puede ser descargada en formato de Excel para un mejor análisis.
 ###
 ## ETL
